@@ -1,1 +1,2 @@
-# reactEcommerce---main
+# reactEcommerce---main 
+Ecommerce frontend using redux toolkit
